@@ -5,7 +5,7 @@
 - linkedin : https://www.linkedin.com/company/epsilonaieg/mycompany/
 - website :  https://www.epsiloneg.com/
 - Github : 
-- Data Science Diploma : (https://www.epsiloneg.com/course/cdsp/) 
+- Data Science Diploma : (https://www.epsiloneg.com/course/cdsp/) , (https://www.facebook.com/photo?fbid=503999345250798&set=a.432529089064491)
 
 ## project Description 
 - what is the problem of your project (in details)
