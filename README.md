@@ -1,4 +1,4 @@
-# EpsilonAI_mid_RealEstate_Analysis
+# EpsilonAI_mid_Project_name
 ## this project is the mid project of Data Science Diploma At EpsilonAI Institue
 ## EpsilonAI profiles :
 - facebook : https://www.facebook.com/Epsilonaieg
